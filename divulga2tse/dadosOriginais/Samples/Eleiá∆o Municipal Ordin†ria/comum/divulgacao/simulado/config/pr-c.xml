@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Eleicoes
+	dataGeracao="23/06/2016"
+	horaGeracao="16:37:04"
+	fase="S">
+	<Eleicao
+		codigo="999"
+		descricao="Eleição Municipal Ordinária 1º Turno - Sample"
+		data="18/09/2016"
+		dataLimite="20/09/2016"
+		ano="2016"
+		turno="1"
+		tipo="3">
+		<AbrangenciaEleicao
+			codigo="PR"
+			versao="0000">
+			<CargoPergunta
+				codigo="11"
+				descricao="Prefeito"
+				tipo="1"
+				possuiVT="N"/>
+			<CargoPergunta
+				codigo="13"
+				descricao="Vereador"
+				tipo="2"
+				possuiVT="N"/>
+		</AbrangenciaEleicao>
+	</Eleicao>
+</Eleicoes>

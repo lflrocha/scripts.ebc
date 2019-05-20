@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DadosFixos
+codigoEleicao="220"
+codigoAbrangencia="71072"
+nomeAbrangencia="SÃO PAULO"
+turno="1"
+fase="O"
+suplementar="N"
+dataGeracao="27/09/2016"
+horaGeracao="08:53:20"
+versao="048">
+<Br
+nome="Brasil">
+<Uf
+sigla="SP"
+nome="SÃO PAULO">
+<Municipio
+codigo="71072"
+nome="SÃO PAULO"
+capital="S"
+secoes="25054"
+eleitorado="8886195"
+nroZonas="58">
+<Zona
+codigo="0001"
+secoes="509"
+eleitorado="165469"
+/>
+<Zona
+codigo="0002"
+secoes="514"
+eleitorado="175694"
+/>
+<Zona
+codigo="0003"
+secoes="228"
+eleitorado="80392"
+/>
+<Zona
+codigo="0004"
+secoes="430"
+eleitorado="161145"
+/>
+<Zona
+codigo="0005"
+secoes="332"
+eleitorado="125368"
+/>
+<Zona
+codigo="0006"
+secoes="442"
+eleitorado="157270"
+/>
+<Zona
+codigo="0020"
+secoes="411"
+eleitorado="146265"
+/>
+<Zona
+codigo="0246"
+secoes="336"
+eleitorado="119008"
+/>
+<Zona
+codigo="0247"
+secoes="326"
+eleitorado="112119"
+/>
+<Zona
+codigo="0248"
+secoes="410"
+eleitorado="154398"
+/>
+<Zona
+codigo="0249"
+secoes="363"
+eleitorado="119577"
+/>
+<Zona
+codigo="0250"
+secoes="455"
+eleitorado="166865"
+/>
+<Zona
+codigo="0251"
+secoes="315"
+eleitorado="117041"
+/>
+<Zona
+codigo="0252"
+secoes="332"
+eleitorado="116434"
+/>
+<Zona
+codigo="0253"
+secoes="666"
+eleitorado="219061"
+/>
+<Zona
+codigo="0254"
+secoes="462"
+eleitorado="158403"
+/>
+<Zona
+codigo="0255"
+secoes="531"
+eleitorado="191027"
+/>
+<Zona
+codigo="0256"
+secoes="461"
+eleitorado="174436"
+/>
+<Zona
+codigo="0257"
+secoes="506"
+eleitorado="179673"
+/>
+<Zona
+codigo="0258"
+secoes="544"
+eleitorado="190771"
+/>
+<Zona
+codigo="0259"
+secoes="419"
+eleitorado="151207"
+/>
+<Zona
+codigo="0260"
+secoes="498"
+eleitorado="181472"
+/>
+<Zona
+codigo="0280"
+secoes="467"
+eleitorado="171500"
+/>
+<Zona
+codigo="0320"
+secoes="499"
+eleitorado="183580"
+/>
+<Zona
+codigo="0325"
+secoes="293"
+eleitorado="102298"
+/>
+<Zona
+codigo="0326"
+secoes="307"
+eleitorado="110042"
+/>
+<Zona
+codigo="0327"
+secoes="332"
+eleitorado="118792"
+/>
+<Zona
+codigo="0328"
+secoes="424"
+eleitorado="162340"
+/>
+<Zona
+codigo="0346"
+secoes="353"
+eleitorado="135630"
+/>
+<Zona
+codigo="0347"
+secoes="472"
+eleitorado="171468"
+/>
+<Zona
+codigo="0348"
+secoes="285"
+eleitorado="104505"
+/>
+<Zona
+codigo="0349"
+secoes="356"
+eleitorado="126642"
+/>
+<Zona
+codigo="0350"
+secoes="370"
+eleitorado="135962"
+/>
+<Zona
+codigo="0351"
+secoes="357"
+eleitorado="133860"
+/>
+<Zona
+codigo="0352"
+secoes="590"
+eleitorado="200999"
+/>
+<Zona
+codigo="0353"
+secoes="490"
+eleitorado="167732"
+/>
+<Zona
+codigo="0371"
+secoes="517"
+eleitorado="187871"
+/>
+<Zona
+codigo="0372"
+secoes="669"
+eleitorado="253540"
+/>
+<Zona
+codigo="0373"
+secoes="384"
+eleitorado="132445"
+/>
+<Zona
+codigo="0374"
+secoes="738"
+eleitorado="229580"
+/>
+<Zona
+codigo="0375"
+secoes="753"
+eleitorado="241979"
+/>
+<Zona
+codigo="0376"
+secoes="651"
+eleitorado="235777"
+/>
+<Zona
+codigo="0381"
+secoes="603"
+eleitorado="212164"
+/>
+<Zona
+codigo="0389"
+secoes="508"
+eleitorado="170619"
+/>
+<Zona
+codigo="0390"
+secoes="334"
+eleitorado="115275"
+/>
+<Zona
+codigo="0392"
+secoes="392"
+eleitorado="124594"
+/>
+<Zona
+codigo="0397"
+secoes="400"
+eleitorado="149309"
+/>
+<Zona
+codigo="0398"
+secoes="301"
+eleitorado="99872"
+/>
+<Zona
+codigo="0403"
+secoes="277"
+eleitorado="95051"
+/>
+<Zona
+codigo="0404"
+secoes="479"
+eleitorado="172095"
+/>
+<Zona
+codigo="0405"
+secoes="282"
+eleitorado="103182"
+/>
+<Zona
+codigo="0408"
+secoes="404"
+eleitorado="144660"
+/>
+<Zona
+codigo="0413"
+secoes="387"
+eleitorado="138363"
+/>
+<Zona
+codigo="0417"
+secoes="312"
+eleitorado="118182"
+/>
+<Zona
+codigo="0418"
+secoes="467"
+eleitorado="176283"
+/>
+<Zona
+codigo="0420"
+secoes="359"
+eleitorado="123422"
+/>
+<Zona
+codigo="0421"
+secoes="379"
+eleitorado="137692"
+/>
+<Zona
+codigo="0422"
+secoes="373"
+eleitorado="135795"
+/>
+</Municipio>
+</Uf>
+</Br>
+<Cargo
+codigo="11"
+nome="Prefeito"
+totalVagas="1">
+<Coligacao
+numero="250000000485"
+nome="&quot;SÃO PAULO SABE, A GENTE RESOLVE&quot;"
+tipo="C"
+composicao="PRB / PSC / PTB / PEN">
+<Partido
+numero="10"
+sigla="PRB"
+nome="Partido Republicano Brasileiro"
+semVotacao="N">
+<Candidato
+numero="10"
+nome="CELSO UBIRAJARA RUSSOMANNO"
+nomeUrna="CELSO RUSSOMANNO"
+sexo="M"
+dataNascimento="20/08/1956"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="MARLENE OLIVEIRA DE CAMPOS MACHADO"
+tipo="V"
+nomeUrna="MARLENE CAMPOS MACHADO"
+situacao="2"
+partido="PTB" />
+</Candidato>
+</Partido>
+<Partido
+numero="14"
+sigla="PTB"
+nome="Partido Trabalhista Brasileiro"
+semVotacao="N">
+</Partido>
+<Partido
+numero="20"
+sigla="PSC"
+nome="Partido Social Cristão"
+semVotacao="N">
+</Partido>
+<Partido
+numero="51"
+sigla="PEN"
+nome="Partido Ecológico Nacional"
+semVotacao="N">
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000000858"
+nome="Partido Renovador Trabalhista Brasileiro"
+tipo="P"
+composicao="PRTB">
+<Partido
+numero="28"
+sigla="PRTB"
+nome="Partido Renovador Trabalhista Brasileiro"
+semVotacao="N">
+<Candidato
+numero="28"
+nome="JOSE LEVY FIDELIX DA CRUZ"
+nomeUrna="LEVY FIDELIX"
+sexo="M"
+dataNascimento="27/12/1951"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="JAIRO GLIKSON"
+tipo="V"
+nomeUrna="JAIRO GLIKSON"
+situacao="2"
+partido="PRTB" />
+</Candidato>
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000001476"
+nome="Partido Socialista dos Trabalhadores Unificado"
+tipo="P"
+composicao="PSTU">
+<Partido
+numero="16"
+sigla="PSTU"
+nome="Partido Socialista dos Trabalhadores Unificado"
+semVotacao="N">
+<Candidato
+numero="16"
+nome="ALTINO DE MELO PRAZERES JÚNIOR"
+nomeUrna="ALTINO"
+sexo="M"
+dataNascimento="22/02/1967"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="JANAINA RODRIGUES PRAZERES"
+tipo="V"
+nomeUrna="PROFESSORA JANAÍNA"
+situacao="2"
+partido="PSTU" />
+</Candidato>
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000005125"
+nome="Partido da Causa Operária"
+tipo="P"
+composicao="PCO">
+<Partido
+numero="29"
+sigla="PCO"
+nome="Partido da Causa Operária"
+semVotacao="N">
+<Candidato
+numero="29"
+nome="HENRIQUE ÁREAS DE ARAUJO"
+nomeUrna="HENRIQUE ÁREAS"
+sexo="M"
+dataNascimento="18/05/1985"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="TRANQUILLO MOTERLE"
+tipo="V"
+nomeUrna="TRANQUILLO MOTERLE"
+situacao="2"
+partido="PCO" />
+</Candidato>
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000002469"
+nome="Solidariedade"
+tipo="P"
+composicao="SD">
+<Partido
+numero="77"
+sigla="SD"
+nome="Solidariedade"
+semVotacao="N">
+<Candidato
+numero="77"
+nome="SERGIO OLIMPIO GOMES"
+nomeUrna="MAJOR OLIMPIO"
+sexo="M"
+dataNascimento="20/03/1962"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="DAVID MARTINS DE CARVALHO"
+tipo="V"
+nomeUrna="DAVID MARTINS"
+situacao="2"
+partido="SD" />
+</Candidato>
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000001252"
+nome="UNIÃO POR SÃO PAULO"
+tipo="C"
+composicao="PMDB / PSD">
+<Partido
+numero="15"
+sigla="PMDB"
+nome="Partido do Movimento Democrático Brasileiro"
+semVotacao="N">
+<Candidato
+numero="15"
+nome="MARTA TERESA SUPLICY"
+nomeUrna="MARTA"
+sexo="F"
+dataNascimento="18/03/1945"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="ANGELO ANDREA MATARAZZO"
+tipo="V"
+nomeUrna="MATARAZZO"
+situacao="2"
+partido="PSD" />
+</Candidato>
+</Partido>
+<Partido
+numero="55"
+sigla="PSD"
+nome="Partido Social Democrático"
+semVotacao="N">
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000000904"
+nome="OS SONHOS PODEM GOVERNAR"
+tipo="C"
+composicao="PSOL / PCB">
+<Partido
+numero="50"
+sigla="PSOL"
+nome="Partido Socialismo e Liberdade"
+semVotacao="N">
+<Candidato
+numero="50"
+nome="LUIZA ERUNDINA DE SOUSA"
+nomeUrna="LUIZA ERUNDINA"
+sexo="F"
+dataNascimento="30/11/1934"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="IVAN VALENTE"
+tipo="V"
+nomeUrna="IVAN VALENTE"
+situacao="2"
+partido="PSOL" />
+</Candidato>
+</Partido>
+<Partido
+numero="21"
+sigla="PCB"
+nome="Partido Comunista Brasileiro"
+semVotacao="N">
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000000917"
+nome="Rede Sustentabilidade"
+tipo="P"
+composicao="REDE">
+<Partido
+numero="18"
+sigla="REDE"
+nome="Rede Sustentabilidade"
+semVotacao="N">
+<Candidato
+numero="18"
+nome="RICARDO YOUNG SILVA"
+nomeUrna="RICARDO YOUNG"
+sexo="M"
+dataNascimento="07/02/1957"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="CARLA MINGOLLA"
+tipo="V"
+nomeUrna="CARLOTA MINGOLLA"
+situacao="2"
+partido="REDE" />
+</Candidato>
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000002349"
+nome="Partido Social Democrata Cristão"
+tipo="P"
+composicao="PSDC">
+<Partido
+numero="27"
+sigla="PSDC"
+nome="Partido Social Democrata Cristão"
+semVotacao="N">
+<Candidato
+numero="27"
+nome="JOÃO BICO DE SOUZA"
+nomeUrna="JOÃO BICO"
+sexo="M"
+dataNascimento="28/01/1967"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="SILVIA CRISTINA CÓPIA CARRILHO SILVA MARTINS"
+tipo="V"
+nomeUrna="PROFESSORA SÍLVIA CRISTINA"
+situacao="2"
+partido="PSDC" />
+</Candidato>
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000000273"
+nome="Acelera SP"
+tipo="C"
+composicao="PSDB / PPS / PV / PSB / DEM / PMB / PHS / PP / PSL / PT do B / PRP / PTC / PTN">
+<Partido
+numero="31"
+sigla="PHS"
+nome="Partido Humanista da Solidariedade"
+semVotacao="N">
+</Partido>
+<Partido
+numero="19"
+sigla="PTN"
+nome="Partido Trabalhista Nacional"
+semVotacao="N">
+</Partido>
+<Partido
+numero="35"
+sigla="PMB"
+nome="Partido da Mulher Brasileira"
+semVotacao="N">
+</Partido>
+<Partido
+numero="70"
+sigla="PT do B"
+nome="Partido Trabalhista do Brasil"
+semVotacao="N">
+</Partido>
+<Partido
+numero="36"
+sigla="PTC"
+nome="Partido Trabalhista Cristão"
+semVotacao="N">
+</Partido>
+<Partido
+numero="40"
+sigla="PSB"
+nome="Partido Socialista Brasileiro"
+semVotacao="N">
+</Partido>
+<Partido
+numero="43"
+sigla="PV"
+nome="Partido Verde"
+semVotacao="N">
+</Partido>
+<Partido
+numero="17"
+sigla="PSL"
+nome="Partido Social Liberal"
+semVotacao="N">
+</Partido>
+<Partido
+numero="45"
+sigla="PSDB"
+nome="Partido da Social Democracia Brasileira"
+semVotacao="N">
+<Candidato
+numero="45"
+nome="JOÃO AGRIPINO DA COSTA DORIA JUNIOR"
+nomeUrna="JOÃO DORIA"
+sexo="M"
+dataNascimento="16/12/1957"
+situacao="16"
+descricaoSituacao="Deferido com recurso"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="BRUNO COVAS LOPES"
+tipo="V"
+nomeUrna="BRUNO COVAS"
+situacao="16"
+partido="PSDB" />
+</Candidato>
+</Partido>
+<Partido
+numero="11"
+sigla="PP"
+nome="Partido Progressista"
+semVotacao="N">
+</Partido>
+<Partido
+numero="25"
+sigla="DEM"
+nome="Democratas"
+semVotacao="N">
+</Partido>
+<Partido
+numero="23"
+sigla="PPS"
+nome="Partido Popular Socialista"
+semVotacao="N">
+</Partido>
+<Partido
+numero="44"
+sigla="PRP"
+nome="Partido Republicano Progressista"
+semVotacao="N">
+</Partido>
+</Coligacao>
+<Coligacao
+numero="250000000693"
+nome="MAIS SÃO PAULO"
+tipo="C"
+composicao="PT / PC do B / PR / PDT / PROS">
+<Partido
+numero="90"
+sigla="PROS"
+nome="Partido Republicano da Ordem Social"
+semVotacao="N">
+</Partido>
+<Partido
+numero="22"
+sigla="PR"
+nome="Partido da República"
+semVotacao="N">
+</Partido>
+<Partido
+numero="12"
+sigla="PDT"
+nome="Partido Democrático Trabalhista"
+semVotacao="N">
+</Partido>
+<Partido
+numero="65"
+sigla="PC do B"
+nome="Partido Comunista do Brasil"
+semVotacao="N">
+</Partido>
+<Partido
+numero="13"
+sigla="PT"
+nome="Partido dos Trabalhadores"
+semVotacao="N">
+<Candidato
+numero="13"
+nome="FERNANDO HADDAD"
+nomeUrna="FERNANDO HADDAD"
+sexo="M"
+dataNascimento="25/01/1963"
+situacao="2"
+descricaoSituacao="Deferido"
+semVotacaoNominal="N">
+<ViceSuplente
+nome="GABRIEL BENEDITO ISSAAC CHALITA"
+tipo="V"
+nomeUrna="GABRIEL CHALITA"
+situacao="2"
+partido="PDT" />
+</Candidato>
+</Partido>
+</Coligacao>
+</Cargo>
+</DadosFixos>

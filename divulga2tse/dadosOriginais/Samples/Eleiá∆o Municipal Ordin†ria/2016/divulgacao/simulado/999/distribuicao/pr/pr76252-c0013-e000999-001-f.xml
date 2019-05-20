@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DadosFixos
+		codigoEleicao="999"
+		codigoAbrangencia="76252"
+		nomeAbrangencia="IVATUBA"
+		turno="1"
+		fase="S"
+		suplementar="N"
+		dataGeracao="23/06/2016"
+		horaGeracao="16:37:04"
+		versao="">
+	<Br
+			nome="Brasil">
+		<Uf
+				sigla="PR"
+				nome="PARANÁ">
+			<Municipio
+					codigo="76252"
+					nome="IVATUBA"
+					capital="N"
+					secoes="7"
+					eleitorado="2148"
+					nroZonas="1">
+				<Zona
+						codigo="0154"
+						secoes="7"
+						eleitorado="2148"
+						/>
+			</Municipio>
+		</Uf>
+	</Br>
+	<Cargo
+			codigo="13"
+			nome="Vereador"
+			totalVagas="9">
+		<Coligacao
+				numero="160000002251"
+				nome="Coligação 1"
+				tipo="P"
+				composicao="P1">
+			<Partido
+					numero="77"
+					sigla="P1"
+					nome="Partido 1"
+					semVotacao="N">
+				<Candidato
+						numero="77353"
+						nome="LARA CARINA"
+						nomeUrna="LARA"
+						sexo="F"
+						dataNascimento="09/05/1984"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="77351"
+						nome="NOA MIGUEL"
+						nomeUrna="NOA"
+						sexo="F"
+						dataNascimento="17/11/1980"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002247"
+				nome="Coligação 2"
+				tipo="C"
+				composicao="P3 / P2">
+			<Partido
+					numero="18"
+					sigla="P2"
+					nome="Partido 2"
+					semVotacao="N">
+				<Candidato
+						numero="18405"
+						nome="ANTONIO GASPAR"
+						nomeUrna="ANTONIO"
+						sexo="M"
+						dataNascimento="13/04/1976"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="19"
+					sigla="P3"
+					nome="Partido 3"
+					semVotacao="N">
+				<Candidato
+						numero="19403"
+						nome="DAVI JORGE"
+						nomeUrna="DAVI"
+						sexo="M"
+						dataNascimento="02/12/1977"
+						situacao="4"
+						descricaoSituacao="Indeferido com recurso"
+						semVotacaoNominal="S"
+						>
+				</Candidato>
+				<Candidato
+						numero="19407"
+						nome="MARIO NELSON"
+						nomeUrna="MARIO"
+						sexo="M"
+						dataNascimento="29/07/1985"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002252"
+				nome="Coligação 4"
+				tipo="P"
+				composicao="P4">
+			<Partido
+					numero="16"
+					sigla="P4"
+					nome="Partido 4"
+					semVotacao="N">
+				<Candidato
+						numero="16341"
+						nome="JEREMIAS DAVID"
+						nomeUrna="JEREMIAS"
+						sexo="M"
+						dataNascimento="13/08/1982"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="16343"
+						nome="LEA DE JESUS"
+						nomeUrna="LEA"
+						sexo="F"
+						dataNascimento="28/08/1983"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="16339"
+						nome="MAGDALENA MARIA"
+						nomeUrna="MAGDALENA"
+						sexo="F"
+						dataNascimento="07/04/1990"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002249"
+				nome="Coligação 5"
+				tipo="P"
+				composicao="P5">
+			<Partido
+					numero="13"
+					sigla="P5"
+					nome="Partido 5"
+					semVotacao="N">
+				<Candidato
+						numero="13299"
+						nome="MARTIM LUCIO"
+						nomeUrna="MARTIM"
+						sexo="M"
+						dataNascimento="03/10/1985"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="13301"
+						nome="CARINA MARIA"
+						nomeUrna="CARINA"
+						sexo="F"
+						dataNascimento="18/03/1994"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="13303"
+						nome="SANTIAGO DOMINGOS"
+						nomeUrna="SANTIAGO"
+						sexo="M"
+						dataNascimento="08/02/1989"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002250"
+				nome="Coligação 6"
+				tipo="P"
+				composicao="P6">
+			<Partido
+					numero="11"
+					sigla="P6"
+					nome="Partido 6"
+					semVotacao="N">
+				<Candidato
+						numero="11361"
+						nome="ANA HELENA"
+						nomeUrna="ANA"
+						sexo="F"
+						dataNascimento="24/07/1990"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="11363"
+						nome="VITOR JUNIOR"
+						nomeUrna="VITOR"
+						sexo="M"
+						dataNascimento="02/08/1990"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="11359"
+						nome="SURI MEI"
+						nomeUrna="SURI"
+						sexo="F"
+						dataNascimento="14/04/1995"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002248"
+				nome="Coligação 7"
+				tipo="C"
+				composicao="P7 / P8">
+			<Partido
+					numero="15"
+					sigla="P7"
+					nome="Partido 7"
+					semVotacao="N">
+				<Candidato
+						numero="15414"
+						nome="ORQUIDEA KAYLLA"
+						nomeUrna="ORQUIDEA"
+						sexo="F"
+						dataNascimento="05/08/1984"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="10"
+					sigla="P8"
+					nome="Partido 8"
+					semVotacao="N">
+				<Candidato
+						numero="10416"
+						nome="KELLY PATRICIA"
+						nomeUrna="KELLY"
+						sexo="F"
+						dataNascimento="23/02/1982"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="10418"
+						nome="MATILDE SONIA"
+						nomeUrna="MATILDE"
+						sexo="F"
+						dataNascimento="24/09/1988"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002253"
+				nome="Coligação 8"
+				tipo="P"
+				composicao="P9">
+			<Partido
+					numero="93"
+					sigla="P9"
+					nome="Partido 9"
+					semVotacao="N">
+				<Candidato
+						numero="93323"
+						nome="SANTIAGO DINIS"
+						nomeUrna="SANTIAGO"
+						sexo="M"
+						dataNascimento="07/02/1989"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="93319"
+						nome="ILDA VICTORIA"
+						nomeUrna="ILDA"
+						sexo="F"
+						dataNascimento="18/08/1984"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="93321"
+						nome="GABRIEL NOAH"
+						nomeUrna="GABRIEL"
+						sexo="M"
+						dataNascimento="17/11/1980"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002246"
+				nome="Coligação 9"
+				tipo="C"
+				composicao="P10 / P11">
+			<Partido
+					numero="30"
+					sigla="P10"
+					nome="Partido 10"
+					semVotacao="N">
+				<Candidato
+						numero="30381"
+						nome="TIAGO JOAO"
+						nomeUrna="TIAGO"
+						sexo="M"
+						dataNascimento="05/11/1989"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="29"
+					sigla="P11"
+					nome="Partido 11"
+					semVotacao="N">
+				<Candidato
+						numero="29383"
+						nome="CASSANDRA ALEXANDRA"
+						nomeUrna="CASSANDRA"
+						sexo="F"
+						dataNascimento="03/09/1994"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="29385"
+						nome="DARIO DURVAL"
+						nomeUrna="DARIO"
+						sexo="M"
+						dataNascimento="29/10/1977"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002243"
+				nome="Coligação 10"
+				tipo="C"
+				composicao="P12 / P13">
+			<Partido
+					numero="17"
+					sigla="P12"
+					nome="Partido 17"
+					semVotacao="N">
+				<Candidato
+						numero="17427"
+						nome="JONAH DANTE"
+						nomeUrna="JONAH"
+						sexo="M"
+						dataNascimento="01/02/1983"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="36"
+					sigla="P13"
+					nome="Partido 13"
+					semVotacao="N">
+				<Candidato
+						numero="36429"
+						nome="ANA GRACINDA"
+						nomeUrna="ANA"
+						sexo="F"
+						dataNascimento="02/09/1992"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="36425"
+						nome="ANA LURDES"
+						nomeUrna="ANA"
+						sexo="F"
+						dataNascimento="12/08/1981"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002245"
+				nome="Coligação 11"
+				tipo="C"
+				composicao="P14 / P15">
+			<Partido
+					numero="14"
+					sigla="P14"
+					nome="Partido 14"
+					semVotacao="N">
+				<Candidato
+						numero="14374"
+						nome="HENZO DAVIDSON"
+						nomeUrna="HENZO"
+						sexo="M"
+						dataNascimento="06/11/1981"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="14370"
+						nome="DANIEL MIGUEL"
+						nomeUrna="DANIEL"
+						sexo="M"
+						dataNascimento="25/09/1977"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="28"
+					sigla="P15"
+					nome="Partido 15"
+					semVotacao="N">
+				<Candidato
+						numero="28372"
+						nome="STACY PATRICIA"
+						nomeUrna="STACY"
+						sexo="F"
+						dataNascimento="20/01/1990"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002244"
+				nome="Coligação 12"
+				tipo="C"
+				composicao="P16 / P17">
+			<Partido
+					numero="44"
+					sigla="P17"
+					nome="Partido 17"
+					semVotacao="N">
+				<Candidato
+						numero="44440"
+						nome="VIVIANE ALEXANDRA"
+						nomeUrna="VIVIANE"
+						sexo="F"
+						dataNascimento="27/11/1991"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="44438"
+						nome="CARLO GUILHERME"
+						nomeUrna="CARLO"
+						sexo="M"
+						dataNascimento="03/03/1977"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="35"
+					sigla="P16"
+					nome="Partido 16"
+					semVotacao="N">
+				<Candidato
+						numero="35436"
+						nome="VIVIANA SAFIRA"
+						nomeUrna="VIVIANA"
+						sexo="F"
+						dataNascimento="09/01/1992"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002255"
+				nome="Coligação 13"
+				tipo="P"
+				composicao="P18">
+			<Partido
+					numero="43"
+					sigla="P18"
+					nome="Partido 18"
+					semVotacao="N">
+				<Candidato
+						numero="43333"
+						nome="KIAN PEDRO"
+						nomeUrna="KIAN"
+						sexo="M"
+						dataNascimento="27/12/1983"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="43331"
+						nome="DIOGO MATIAS"
+						nomeUrna="DIOGO"
+						sexo="M"
+						dataNascimento="18/11/1978"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="43329"
+						nome="SALVADOR FILIPE"
+						nomeUrna="SALVADOR"
+						sexo="M"
+						dataNascimento="08/10/1988"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002254"
+				nome="Coligação 14"
+				tipo="P"
+				composicao="P19">
+			<Partido
+					numero="94"
+					sigla="P19"
+					nome="Partido 19"
+					semVotacao="N">
+				<Candidato
+						numero="94309"
+						nome="SANTIAGO MATIAS"
+						nomeUrna="SANTIAGO"
+						sexo="M"
+						dataNascimento="08/03/1989"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="94311"
+						nome="MADALENA ISABELA"
+						nomeUrna="MADALENA"
+						sexo="F"
+						dataNascimento="06/08/1987"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="94313"
+						nome="TOMAS ANDRE"
+						nomeUrna="TOMAS"
+						sexo="M"
+						dataNascimento="29/12/1989"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002242"
+				nome="Coligação 15"
+				tipo="C"
+				composicao="P20 / P21">
+			<Partido
+					numero="12"
+					sigla="P20"
+					nome="Partido 20"
+					semVotacao="N">
+				<Candidato
+						numero="12396"
+						nome="SIMON DUMITRU"
+						nomeUrna="SIMON"
+						sexo="M"
+						dataNascimento="14/07/1989"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="33"
+					sigla="P21"
+					nome="Partido 21"
+					semVotacao="N">
+				<Candidato
+						numero="33392"
+						nome="JEFERSON DANIEL"
+						nomeUrna="JEFERSON"
+						sexo="M"
+						dataNascimento="09/08/1982"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+				</Candidato>
+				<Candidato
+						numero="33394"
+						nome="RODRIGO FILIPE"
+						nomeUrna="RODRIGO"
+						sexo="M"
+						dataNascimento="11/03/1988"
+						situacao="18"
+						descricaoSituacao="Cassado com recurso"
+						semVotacaoNominal="S"
+						>
+				</Candidato>
+			</Partido>
+		</Coligacao>
+	</Cargo>
+</DadosFixos>

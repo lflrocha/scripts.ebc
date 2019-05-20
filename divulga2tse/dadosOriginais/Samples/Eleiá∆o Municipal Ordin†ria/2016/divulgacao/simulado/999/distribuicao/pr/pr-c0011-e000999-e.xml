@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Eleitos
+	codigoEleicao="6377"
+	codigoAbrangencia="PR"
+	nomeAbrangencia="PARANÁ"
+	turno="1"
+	fase="S"
+	codigoCargo="11"
+	nomeCargo="Prefeito"
+	dataGeracao="23/06/2016"
+	horaGeracao="16:37:04">
+<AbrangenciaEleito
+	dataTotalizacao="23/06/2016"
+	horaTotalizacao="18:38:00"
+	tipoAbrangencia="MU"
+	codigoAbrangencia="76252"
+	nomeAbrangencia="IVATUBA"
+	votosValidos="0">
+</AbrangenciaEleito>
+</Eleitos>

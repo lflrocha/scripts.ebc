@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Eleicoes
+	dataGeracao="07/07/2016"
+	horaGeracao="16:16:50"
+	fase="S">
+	<Eleicao
+		codigo="888"
+		descricao="Consulta Popular Municipal - Sample"
+		data="18/09/2016"
+		dataLimite="20/09/2016"
+		ano="2016"
+		turno="1"
+		tipo="7">
+		<AbrangenciaEleicao
+			codigo="PR"
+			versao="0000">
+			<CargoPergunta
+				codigo="61"
+				descricao="Brasília é a capital do Brasil?"
+				tipo="3"
+				possuiVT="N"/>
+		</AbrangenciaEleicao>
+	</Eleicao>
+</Eleicoes>

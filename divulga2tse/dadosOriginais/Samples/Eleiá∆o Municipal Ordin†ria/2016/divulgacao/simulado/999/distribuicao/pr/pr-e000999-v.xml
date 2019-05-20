@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Resultado
+	codigoEleicao="999"
+	turno="1"
+	fase="S"
+	dataGeracao="23/06/2016"
+	horaGeracao="16:37:37"
+	nomeArquivoDadosFixos="pr-e000999-001-f">
+	<Abrangencia
+		dataTotalizacao="23/06/2016"
+		horaTotalizacao="16:37:37"
+		totalizacaoFinal="S"
+		andamento="N"
+		tipoAbrangencia="UF"
+		codigoAbrangencia="PR"
+		secoesTotalizadas="0"
+		secoesNaoTotalizadas=""
+		eleitoradoApurado="0"
+		eleitoradoNaoApurado="0"
+		abstencao="0"
+		comparecimento="0"
+		municipiosNaoRecebidos="3"
+		municipiosParcialmenteTotalizados="0"
+		municipiosFinalizados="0"/>
+	<Abrangencia
+		dataTotalizacao="23/06/2016"
+		horaTotalizacao="16:37:37"
+		totalizacaoFinal="N"
+		andamento="N"
+		tipoAbrangencia="MU"
+		codigoAbrangencia="76252"
+		secoesTotalizadas="0"
+		secoesNaoTotalizadas=""
+		eleitoradoApurado="0"
+		eleitoradoNaoApurado="0"
+		abstencao="0"
+		comparecimento="0"
+		/>
+</Resultado>

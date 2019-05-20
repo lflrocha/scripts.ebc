@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<AbrangenciaDominio
+	codigoEleicao="999"
+	dataGeracao="23/06/2016"
+	horaGeracao="16:37:04"
+	fase="S"
+	codigo="PR"
+	descricao="PARANÁ"
+	tipo="UF"
+	versao="0"
+	possuiVT="N">
+	<MunicipioDominio
+		codigo="76252"
+		nome="IVATUBA"
+		possuiVT="N"
+		capital="N"
+		zonas="0154"/>
+</AbrangenciaDominio>

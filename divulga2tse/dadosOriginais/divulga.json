@@ -1,0 +1,13 @@
+
+{ "ele" : "220", "tpabr" : "mu", "cdabr" : "71072", "carper" : "11", "t" : "1", "f" : "o", "dt" : "02\/10\/2016", "ht" : "21:53:52", "tf" : "s", "v" : "1", "esae" : "n", "mnae" : "", "s" : "25054", "st" : "25054", "snt" : "0", "e" : "8886195", "ea" : "8886195", "ena" : "0", "c" : "6945741", "a" : "1940454", "tv" : "6945741", "vb" : "367471", "vn" : "788379", "vp" : "0", "vv" : "5789891", "vl" : "0", "van" : "0", "vnom" : "5789891", "cand" : [ 
+{ "seq" : "10", "n" : "16", "nm" : "ALTINO", "cc" : "PSTU", "nv" : "PROFESSORA JANAÃNA", "e" : "n", "v" : "4715", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" },
+{ "seq" : "9", "n" : "27", "nm" : "JOÃƒO BICO", "cc" : "PSDC", "nv" : "PROFESSORA SÃLVIA CRISTINA", "e" : "n", "v" : "6006", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" },
+{ "seq" : "11", "n" : "29", "nm" : "HENRIQUE ÃREAS", "cc" : "PCO", "nv" : "TRANQUILLO MOTERLE", "e" : "n", "v" : "1019", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" },
+{ "seq" : "6", "n" : "77", "nm" : "MAJOR OLIMPIO", "cc" : "SD", "nv" : "DAVID MARTINS", "e" : "n", "v" : "116870", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" },
+{ "seq" : "8", "n" : "28", "nm" : "LEVY FIDELIX", "cc" : "PRTB", "nv" : "JAIRO GLIKSON", "e" : "n", "v" : "21705", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" },
+{ "seq" : "3", "n" : "10", "nm" : "CELSO RUSSOMANNO", "cc" : "PRB - PRB \/ PSC \/ PTB \/ PEN", "nv" : "MARLENE CAMPOS MACHADO", "e" : "n", "v" : "789986", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" },
+{ "seq" : "4", "n" : "15", "nm" : "MARTA", "cc" : "PMDB - PMDB \/ PSD", "nv" : "MATARAZZO", "e" : "n", "v" : "587220", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" },
+{ "seq" : "7", "n" : "18", "nm" : "RICARDO YOUNG", "cc" : "REDE", "nv" : "CARLOTA MINGOLLA", "e" : "n", "v" : "25993", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" },
+{ "seq" : "1", "n" : "45", "nm" : "JOÃƒO DORIA", "cc" : "PSDB - PSDB \/ PPS \/ PV \/ PSB \/ DEM \/ PMB \/ PHS \/ PP \/ PSL \/ PT do B \/ PRP \/ PTC \/ PTN", "nv" : "BRUNO COVAS", "e" : "s", "v" : "3085187", "vap" : "0", "dsit" : "Deferido com recurso", "svnom" : "n" },
+{ "seq" : "5", "n" : "50", "nm" : "LUIZA ERUNDINA", "cc" : "PSOL - PSOL \/ PCB", "nv" : "IVAN VALENTE", "e" : "n", "v" : "184000", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" },
+{ "seq" : "2", "n" : "13", "nm" : "FERNANDO HADDAD", "cc" : "PT - PT \/ PC do B \/ PR \/ PDT \/ PROS", "nv" : "GABRIEL CHALITA", "e" : "n", "v" : "967190", "vap" : "0", "dsit" : "Deferido", "svnom" : "n" } ] }

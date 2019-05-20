@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DadosFixos
+		codigoEleicao="999"
+		codigoAbrangencia="PR"
+		nomeAbrangencia="PARANÁ"
+		turno="1"
+		fase="S"
+		suplementar="N"
+		dataGeracao="23/06/2016"
+		horaGeracao="16:37:04"
+		versao="0">
+	<Br nome="Brasil">
+		<Uf
+				sigla="PR"
+				nome="PARANÁ"
+				secoes="50"
+				eleitorado="14771"
+				nroMunicipios="3">
+			<Municipio
+					codigo="76252"
+					nome="IVATUBA"
+					capital="N"
+					secoes="7"
+					eleitorado="2148"
+					nroZonas="1">
+				<Zona
+						codigo="0154"
+						secoes="7"
+						eleitorado="2148"
+						/>
+			</Municipio>
+		</Uf>
+	</Br>
+</DadosFixos>

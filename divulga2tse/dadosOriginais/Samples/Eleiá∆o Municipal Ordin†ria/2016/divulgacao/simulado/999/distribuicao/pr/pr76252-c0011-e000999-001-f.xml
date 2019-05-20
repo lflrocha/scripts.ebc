@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DadosFixos
+		codigoEleicao="999"
+		codigoAbrangencia="76252"
+		nomeAbrangencia="IVATUBA"
+		turno="1"
+		fase="S"
+		suplementar="N"
+		dataGeracao="23/06/2016"
+		horaGeracao="16:37:03"
+		versao="">
+	<Br
+			nome="Brasil">
+		<Uf
+				sigla="PR"
+				nome="PARANÁ">
+			<Municipio
+					codigo="76252"
+					nome="IVATUBA"
+					capital="N"
+					secoes="7"
+					eleitorado="2148"
+					nroZonas="1">
+				<Zona
+						codigo="0154"
+						secoes="7"
+						eleitorado="2148"
+						/>
+			</Municipio>
+		</Uf>
+	</Br>
+	<Cargo
+			codigo="11"
+			nome="Prefeito"
+			totalVagas="1">
+		<Coligacao
+				numero="160000002251"
+				nome="Coligação 1"
+				tipo="P"
+				composicao="P1">
+			<Partido
+					numero="77"
+					sigla="P1"
+					nome="Partido 1"
+					semVotacao="N">
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002247"
+				nome="Coligação 2"
+				tipo="C"
+				composicao="P3 / P2">
+			<Partido
+					numero="18"
+					sigla="P2"
+					nome="Partido 2"
+					semVotacao="N">
+				<Candidato
+						numero="18"
+						nome="HAILTON RAFAEL"
+						nomeUrna="HAILTON"
+						sexo="M"
+						dataNascimento="13/08/1981"
+						situacao="4"
+						descricaoSituacao="Indeferido com recurso"
+						semVotacaoNominal="S"
+						>
+					<ViceSuplente							
+							nome="RAFAEL ELISEI"
+							tipo="V"
+							nomeUrna="RAFAEL"
+							situacao="4"
+							partido="P2" />
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="19"
+					sigla="P3"
+					nome="Partido 3"
+					semVotacao="N">
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002252"
+				nome="Coligação 4"
+				tipo="P"
+				composicao="P4">
+			<Partido
+					numero="16"
+					sigla="P4"
+					nome="Partido 4"
+					semVotacao="N">
+				<Candidato
+						numero="16"
+						nome="ROSA FABIANA"
+						nomeUrna="ROSA"
+						sexo="F"
+						dataNascimento="26/06/1991"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="MARIANA ESTRELA"
+							tipo="V"
+							nomeUrna="MARIANA"
+							situacao="2"
+							partido="P4" />
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002249"
+				nome="Coligação 5"
+				tipo="P"
+				composicao="P5">
+			<Partido
+					numero="13"
+					sigla="P5"
+					nome="Partido 5"
+					semVotacao="N">
+				<Candidato
+						numero="13"
+						nome="AMELIA MARIA"
+						nomeUrna="AMELIA"
+						sexo="F"
+						dataNascimento="09/02/1994"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="NOLAN JOSIAH"
+							tipo="V"
+							nomeUrna="NOLAN"
+							situacao="2"
+							partido="P5" />
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002250"
+				nome="Coligação 6"
+				tipo="P"
+				composicao="P6">
+			<Partido
+					numero="11"
+					sigla="P6"
+					nome="Partido 6"
+					semVotacao="N">
+				<Candidato
+						numero="11"
+						nome="DIOGO RICARDO"
+						nomeUrna="DIOGO"
+						sexo="M"
+						dataNascimento="01/12/1978"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="ERICK PATRICK"
+							tipo="V"
+							nomeUrna="ERICK"
+							situacao="2"
+							partido="P6" />
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002248"
+				nome="Coligação 7"
+				tipo="C"
+				composicao="P7 / P8">
+			<Partido
+					numero="15"
+					sigla="P7"
+					nome="Partido 7"
+					semVotacao="N">
+			</Partido>
+			<Partido
+					numero="10"
+					sigla="P8"
+					nome="Partido 8"
+					semVotacao="N">
+				<Candidato
+						numero="10"
+						nome="LEONOR ROSA"
+						nomeUrna="LEONOR"
+						sexo="F"
+						dataNascimento="05/09/1984"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="ANDRADA SELENA"
+							tipo="V"
+							nomeUrna="ANDRADA"
+							situacao="2"
+							partido="P7" />
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002253"
+				nome="Coligação 8"
+				tipo="P"
+				composicao="P9">
+			<Partido
+					numero="93"
+					sigla="P9"
+					nome="Partido 9"
+					semVotacao="N">
+				<Candidato
+						numero="93"
+						nome="ISABELLA VITORIA"
+						nomeUrna="ISABELLA"
+						sexo="F"
+						dataNascimento="01/08/1994"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="PEDRO ALEXANDRE"
+							tipo="V"
+							nomeUrna="PEDRO"
+							situacao="2"
+							partido="P9" />
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002246"
+				nome="Coligação 9"
+				tipo="C"
+				composicao="P10 / P11">
+			<Partido
+					numero="30"
+					sigla="P10"
+					nome="Partido 10"
+					semVotacao="N">
+				<Candidato
+						numero="30"
+						nome="JAMES PAUL"
+						nomeUrna="JAMES"
+						sexo="M"
+						dataNascimento="16/07/1982"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="YANICK SENGHOR"
+							tipo="V"
+							nomeUrna="YANICK"
+							situacao="2"
+							partido="P11" />
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="29"
+					sigla="P11"
+					nome="Partido 11"
+					semVotacao="N">
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002243"
+				nome="Coligação 10"
+				tipo="C"
+				composicao="P12 / P13">
+			<Partido
+					numero="17"
+					sigla="P12"
+					nome="Partido 12"
+					semVotacao="N">
+				<Candidato
+						numero="17"
+						nome="MAFALDA TAIS"
+						nomeUrna="MAFALDA"
+						sexo="F"
+						dataNascimento="01/01/1985"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="CARLOS JUNIOR"
+							tipo="V"
+							nomeUrna="CARLOS"
+							situacao="2"
+							partido="P13" />
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="36"
+					sigla="P13"
+					nome="Partido 13"
+					semVotacao="N">
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002245"
+				nome="Coligação 11"
+				tipo="C"
+				composicao="P14 / P15">
+			<Partido
+					numero="14"
+					sigla="P14"
+					nome="Partido 14"
+					semVotacao="N">
+				<Candidato
+						numero="14"
+						nome="FILIPE CASSIANO"
+						nomeUrna="FILIPE"
+						sexo="M"
+						dataNascimento="10/04/1980"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="ARIANA CRISTIANA"
+							tipo="V"
+							nomeUrna="ARIANA"
+							situacao="2"
+							partido="P15" />
+				</Candidato>
+			</Partido>
+			<Partido
+					numero="28"
+					sigla="P15"
+					nome="Partido 15"
+					semVotacao="N">
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002244"
+				nome="Coligação 12"
+				tipo="C"
+				composicao="P16 / P17">
+			<Partido
+					numero="44"
+					sigla="P17"
+					nome="Partido 17"
+					semVotacao="N">
+			</Partido>
+			<Partido
+					numero="35"
+					sigla="P16"
+					nome="Partido 16"
+					semVotacao="N">
+				<Candidato
+						numero="35"
+						nome="KEVIN HEDY"
+						nomeUrna="KEVIN"
+						sexo="M"
+						dataNascimento="01/12/1983"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="NUNO LISANDRO"
+							tipo="V"
+							nomeUrna="NUNO"
+							situacao="2"
+							partido="P17" />
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002255"
+				nome="Coligação 13"
+				tipo="P"
+				composicao="P18">
+			<Partido
+					numero="43"
+					sigla="P18"
+					nome="Partido 18"
+					semVotacao="N">
+				<Candidato
+						numero="43"
+						nome="MARTA ALEXANDRA"
+						nomeUrna="MARTA"
+						sexo="F"
+						dataNascimento="23/12/1984"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="ANA RITA"
+							tipo="V"
+							nomeUrna="ANA"
+							situacao="2"
+							partido="P18" />
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002254"
+				nome="Coligação 14"
+				tipo="P"
+				composicao="P19">
+			<Partido
+					numero="94"
+					sigla="P19"
+					nome="Partido 19"
+					semVotacao="N">
+				<Candidato
+						numero="94"
+						nome="DUARTE ALFREDO"
+						nomeUrna="DUARTE"
+						sexo="M"
+						dataNascimento="14/01/1979"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="WILSON OMAR"
+							tipo="V"
+							nomeUrna="WILSON"
+							situacao="2"
+							partido="P19" />
+				</Candidato>
+			</Partido>
+		</Coligacao>
+		<Coligacao
+				numero="160000002242"
+				nome="Coligação 15"
+				tipo="C"
+				composicao="P20 / P21">
+			<Partido
+					numero="12"
+					sigla="P20"
+					nome="Partido 20"
+					semVotacao="N">
+			</Partido>
+			<Partido
+					numero="33"
+					sigla="P21"
+					nome="Partido 21"
+					semVotacao="N">
+				<Candidato
+						numero="33"
+						nome="KAUAN MATHEUS"
+						nomeUrna="KAUAN"
+						sexo="M"
+						dataNascimento="01/09/1983"
+						situacao="2"
+						descricaoSituacao="Deferido"
+						semVotacaoNominal="N"
+						>
+					<ViceSuplente
+							nome="QUEVIN MISAEL"
+							tipo="V"
+							nomeUrna="QUEVIN"
+							situacao="2"
+							partido="P21" />
+				</Candidato>
+			</Partido>
+		</Coligacao>
+	</Cargo>
+</DadosFixos>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<AbrangenciaDominio
+	codigoEleicao="888"
+	dataGeracao="06/07/2016"
+	horaGeracao="08:43:08"
+	fase="S"
+	codigo="PR"
+	descricao="PARANÁ"
+	tipo="UF"
+	versao="0"
+	possuiVT="N">
+	<MunicipioDominio
+		codigo="75639"
+		nome="FOZ DO IGUAÇU"
+		possuiVT="N"
+		capital="N"
+		zonas="0046,0204,0205,0147"/>
+</AbrangenciaDominio>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DadosFixos
+		codigoEleicao="888"
+		codigoAbrangencia="75639"
+		nomeAbrangencia="FOZ DO IGUAÇU"
+		turno="1"
+		fase="S"
+		suplementar="N"
+		dataGeracao="06/07/2016"
+		horaGeracao="08:43:07"
+		versao="">
+	<Br
+			nome="Brasil">
+		<Uf
+				sigla="PR"
+				nome="PARANÁ">
+			<Municipio
+					codigo="75639"
+					nome="FOZ DO IGUAÇU"
+					capital="N"
+					secoes="643"
+					eleitorado="188546"
+					nroZonas="4">
+				<Zona
+						codigo="0046"
+						secoes="185"
+						eleitorado="52583"
+						/>
+				<Zona
+						codigo="0147"
+						secoes="195"
+						eleitorado="55153"
+						/>
+				<Zona
+						codigo="0204"
+						secoes="142"
+						eleitorado="42695"
+						/>
+				<Zona
+						codigo="0205"
+						secoes="121"
+						eleitorado="38115"
+						/>
+			</Municipio>
+		</Uf>
+	</Br>
+	<Pergunta
+			codigo="61"
+			descricaoPergunta="Brasília é a capital do Brasil?">
+		<Resposta
+				numero="84"
+				descricaoResposta="Sim">
+		</Resposta>
+		<Resposta
+				numero="85"
+				descricaoResposta="Não">
+		</Resposta>
+	</Pergunta>
+</DadosFixos>
